@@ -1,11 +1,11 @@
 +++
-date = "2017-01-01T00:00:00"
-title = "Example Talk"
+date = "2012-08-01T00:00:00"
+title = "Joint Optimization of Fidelity and Commensurability for Manifold Alignment and Vertex Assignment"
 abstract = ""
 abstract_short = ""
-event = "Hugo Academic Theme Conference"
-event_url = "https://example.org"
-location = ""
+event = "8th World Congress in Probability and Statistics"
+event_url = ""
+location = "Istanbul, Turkey"
 
 selected = false
 math = true

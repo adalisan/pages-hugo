@@ -9,16 +9,13 @@ publication = ""
 publication_short = ""
 selected = true
 title = "Joint Optimization of Fidelity and Commensurability for Manifold Alignment and Graph Matching"
-url_code = "#"
+url_code = "https://github.com/adalisan/thesis.git"
 url_dataset = "#"
 url_pdf = "https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/37006/ADALI-DISSERTATION-2014.pdf?sequence=1&isAllowed=y"
 url_project = "https://jscholarship.library.jhu.edu/handle/1774.2/37006"
 url_slides = "#"
 url_video = "#"
 
-[[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

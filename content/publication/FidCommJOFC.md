@@ -9,16 +9,14 @@ publication = "In Journal of Classification"
 publication_short = "In *JoC*"
 selected = true
 title = "Fidelity-Commensurability Tradeoff in Joint Embedding of Disparate Dissimilarities"
-url_code = "#"
+url_code = "https://github.com/adalisan/JOFC-MatchDetect"
 url_dataset = "#"
 url_pdf = "https://link.springer.com/article/10.1007/s00357-016-9214-6"
 url_project = "project/JOFC"
 url_slides = "#"
 url_video = "#"
 
-[[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
+
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
