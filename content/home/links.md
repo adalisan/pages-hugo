@@ -32,9 +32,14 @@ weight = 50
 [Robust workflow with StatET + Eclipse (+ SVN + LaTeX + Sweave + BibTeX + Zotero)](http://www.stanford.edu/~messing/ComputationalSocialScienceWorkflow.html)
 
 ## Programming
-r/programming
+[r/programming] (http://reddit.com/programming)
 
 An excellent resource for programmers both beginner and experienced. Be sure to check out other related subreddits from their sidebar. 
+
+[github tutorial ](http://kbroman.org/github_tutorial/)
+[Development Documentation for a lot of languages](http://devdocs.io/)
+[C++ code style](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+[Python for stats and data analysis ](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
 
 Latex,Fonts,visualization
 [http://colorbrewer2.org/](http://colorbrewer2.org/)
@@ -44,7 +49,8 @@ For choosing palettes for graphs that are distinct or that have desired properti
 [A Survey of Free Math Fonts for TeX and LaTeX1](http://carroll.aset.psu.edu/pub/CTAN/info/Free_Math_Font_Survey/survey.html#sec:Compar) 
  
 [The 100 Best Fonts (in a Huge Sortable Table)](http://bonfx.com/the-100-best-fonts-in-a-huge-sortable-table/)
- [History of neue haas grotesk (aka Helvetica)](http://www.fontbureau.com/nhg/history/)
+
+[History of neue haas grotesk (aka Helvetica)](http://www.fontbureau.com/nhg/history/)
 
 [microsoft-fonts] ("http://neosmart.net/blog/2006/a-comprehensive-look-at-the-new-microsoft-fonts/")
 

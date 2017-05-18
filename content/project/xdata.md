@@ -16,7 +16,7 @@ image_preview = "XDATA_TSG.png"
 tags = ["data-analysis","visualization","big-data","machine-learning","graph-analysis"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://www.darpa.mil/Our_Work/I2O/Programs/XDATA.aspx"
+external_link = "http://opencatalog.darpa.mil/"
 
 # Does the project detail page use math formatting?
 math = false
