@@ -6,7 +6,7 @@ date = "2016-04-20T00:00:00"
 draft = false
 
 title = "Links"
-subtitle = ""
+subtitle = "Curated over the years"
 widget = "custom"
 
 # Order that this section will appear in.
@@ -15,11 +15,12 @@ weight = 50
 +++
 
 
-[Advanced R development - GitHub](https://github.com/hadley/devtools/wiki)
 
 
 ## R and development
 
+
+[Advanced R development - GitHub](https://github.com/hadley/devtools/wiki)
 
 [R, Statet/Eclipse and Latex primer](http://jeromyanglim.blogspot.com/2010/02/getting-started-with-sweave-r-latex.html)
  
@@ -30,6 +31,8 @@ weight = 50
 [Introduction to R](http://www.ibm.com/developerworks/linux/library/l-r1/)
 
 [Robust workflow with StatET + Eclipse (+ SVN + LaTeX + Sweave + BibTeX + Zotero)](http://www.stanford.edu/~messing/ComputationalSocialScienceWorkflow.html)
+[R examples: usage of different libraries ](http://www.di.fc.ul.pt/~jpn/r/])
+
 
 ## Programming
 [r/programming] (http://reddit.com/programming)
@@ -40,8 +43,13 @@ An excellent resource for programmers both beginner and experienced. Be sure to 
 [Development Documentation for a lot of languages](http://devdocs.io/)
 [C++ code style](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 [Python for stats and data analysis ](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
+[Primer explanations of math concepts] (https://jeremykun.com/primers/)
+[]
 
-Latex,Fonts,visualization
+## Interesting science writings
+[Blog post on Neural Networks, and hypotheses on why they work well](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
+## Latex,Fonts,visualization
 [http://colorbrewer2.org/](http://colorbrewer2.org/)
 
 For choosing palettes for graphs that are distinct or that have desired properties 
