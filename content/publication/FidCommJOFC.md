@@ -16,13 +16,4 @@ url_project = "project/JOFC"
 url_slides = "#"
 url_video = "#"
 
-
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
-
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

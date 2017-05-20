@@ -16,15 +16,5 @@ url_project = "project/SGM"
 url_slides = "#"
 url_video = "#"
 
-[[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
