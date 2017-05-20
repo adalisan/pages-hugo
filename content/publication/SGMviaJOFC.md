@@ -16,5 +16,4 @@ url_project = "project/SGM"
 url_slides = "#"
 url_video = "#"
 
-
 +++
