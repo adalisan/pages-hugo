@@ -36,15 +36,11 @@ weight = 50
 
 ## Programming
 [r/programming] (http://reddit.com/programming)
-
-An excellent resource for programmers both beginner and experienced. Be sure to check out other related subreddits from their sidebar. 
-
 [github tutorial ](http://kbroman.org/github_tutorial/)
 [Development Documentation for a lot of languages](http://devdocs.io/)
 [C++ code style](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 [Python for stats and data analysis ](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
 [Primer explanations of math concepts] (https://jeremykun.com/primers/)
-[]
 
 ## Interesting science writings
 [Blog post on Neural Networks, and hypotheses on why they work well](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)

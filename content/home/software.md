@@ -19,3 +19,4 @@ detailed_list = false
 
 +++
 
+[RGraphM] (https://github.com/adalisan/RGraphM) is a graph matching R package based on graphm.

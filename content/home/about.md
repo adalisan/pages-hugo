@@ -50,7 +50,7 @@ I also have a M.Sc in Engineering from Brown University. I worked in computer vi
 
 Also at Johns Hopkins (2007-2009), I was a research assistant in the Cardiovascular Research Grid project, developed code for predicting sudden cardiac death or VT/VF events for people implanted with ICD devices.
 
-In addition to becoming familiar with different statistical methods, I also try to gain as much computing skills as I can. Learning R was an arduous journey and I learned to love R at the end by repeatedly failing and occasionally succeding.
+In addition to becoming familiar with different statistical methods, I also try to gain as much computing skills as I can. Learning R was an arduous journey and I learned to love R at the end by repeatedly failing and occasionally succeding. See the [software](#software) section for the R packages I am working on. 
 
 I also work with Matlab and Python for scientific computing. Here's my [github page](https://github.com/adalisan/) by the way.
 
@@ -58,4 +58,4 @@ I like learning new things and solving practical data problems. My two career go
 
 Like the best of statistics/data science practitioners, I am adept at learning new computer languages.
 
-I worked with C++, for a long time. I picked up Python during my PhD which I would say is my (current) favorite computer language.
+I used  C++  for a long time working with [VXL](https://github.com/vxl/vxl) library. I picked up Python during my PhD which I would say is my (current) favorite computer language.
