@@ -4,12 +4,12 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Recent & Upcoming Talks"
+title = "Software"
 subtitle = ""
-widget = "talks"
+widget = "custom"
 
 # Order that this section will appear in.
-weight = 35
+weight = 30
 
 # Number of talks to list.
 count = 10
