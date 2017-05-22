@@ -60,8 +60,8 @@ For choosing palettes for graphs that are distinct or that have desired properti
 
  
 ## Misc
-
-[**Longform**](http://longform.org)
-
 One of the best collections of reading (both fiction and non-fiction articles) material for your Pocket. 
+[**Longform**](http://longform.org)
+[*Sites for Learning*](https://entrepreneurs.maqtoob.com/the-37-best-websites-to-learn-something-new-895e2cb0cad4)
+
 
