@@ -19,8 +19,7 @@ install:
 
 # Build the website
 script:
-  - cd src
-  - ../binaries/hugo 
+  - hugo 
 
 # Deploy to GitHub pages
 deploy:
