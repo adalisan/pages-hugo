@@ -21,7 +21,7 @@ weight = 50
 
 
 [Advanced R development - GitHub](https://github.com/hadley/devtools/wiki)
-
+[How to improve your R and data analysis skills by *doing*, asking for help and learning from online sources]http://www.noamross.net/blog/2013/1/7/collaborating-with-r.html
 [R, Statet/Eclipse and Latex primer](http://jeromyanglim.blogspot.com/2010/02/getting-started-with-sweave-r-latex.html)
  
 [R package for managing data projects](http://projecttemplate.net/)
