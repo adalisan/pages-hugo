@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Matching on Sancar Adali - personal website</title>
+    <link>https://adalisan.github.io/tags/graph-matching/</link>
+    <description>Recent content in Graph Matching on Sancar Adali - personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Sancar Adali</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/graph-matching/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Seeded Graph Matching</title>
+      <link>https://adalisan.github.io/project/sgm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://adalisan.github.io/project/sgm/</guid>
+      <description>&lt;p&gt;This variant of the graph matching problem provides an opportunity for the application of JOFC and also the adaptation of a state-of-the-art graph matching algorithm.
+My work on this variant of the graph matching problem constituted part of my dissertation research. This work is presented in &lt;a href=&#34;http://arxiv.org/abs/1209.0367&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; and &lt;a href=&#34;http://arxiv.org/abs/1401.3813http://arxiv.org/abs/1401.3813&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; arxiv papers.&lt;/p&gt;
+
+&lt;p&gt;The code for the algorithm and analysis is at
+&lt;a href=&#34;https://github.com/adalisan/SeededGraphMatch&#34; target=&#34;_blank&#34;&gt;https://github.com/adalisan/SeededGraphMatch&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
