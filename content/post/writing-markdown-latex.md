@@ -141,13 +141,13 @@ If the `highlight_style` option *is* set, then `/css/highlight.min.css` is ignor
 
 See the [highlight.js demo page](https://highlightjs.org/static/demo/) for examples of available styles.
 
-{{% alert note %}}
+Missing alert
 Not all styles listed on the [highlight.js demo page](https://highlightjs.org/static/demo/) are available from the [cdnjs server](https://cdnjs.com/libraries/highlight.js/). If you want to use a style that is not served by cdnjs, just leave `highlight_style` unset, and place the corresponding css file in `/static/css/highlight.min.css`.
-{{% /alert %}}
+Missing **alert**
 
-{{% alert note %}}
+
 If you don't want to change the default style that ships with Academic but you do want the style file served from the [cdnjs server](https://cdnjs.com/libraries/highlight.js/), set `highlight_style = "github"` in `config.toml`.
-{{% /alert %}}
+Missing **alertend**
 
 The `highlight_style` option is only recognized when set in `config.toml`. Setting `highlight_style` in your page's preamble has no effect.
 
