@@ -42,9 +42,9 @@ weight = 50
 [Blog post on Neural Networks, and hypotheses on why they work well](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 ## Latex,Fonts,visualization
-[http://colorbrewer2.org/](http://colorbrewer2.org/)
+For choosing palettes for graphs that are distinct or that have desired properties [http://colorbrewer2.org/](http://colorbrewer2.org/)
 
-For choosing palettes for graphs that are distinct or that have desired properties
+
 
 [A Survey of Free Math Fonts for TeX and LaTeX1](http://carroll.aset.psu.edu/pub/CTAN/info/Free_Math_Font_Survey/survey.html#sec:Compar)
 
@@ -52,7 +52,7 @@ For choosing palettes for graphs that are distinct or that have desired properti
 
 [History of neue haas grotesk (aka Helvetica)](http://www.fontbureau.com/nhg/history/)
 
-[microsoft-fonts]("http://neosmart.net/blog/2006/a-comprehensive-look-at-the-new-microsoft-fonts/")
+[microsoft-fonts](http://neosmart.net/blog/2006/a-comprehensive-look-at-the-new-microsoft-fonts/)
 
 ## Misc
 One of the best collections of reading (both fiction and non-fiction articles) material for your Pocket:

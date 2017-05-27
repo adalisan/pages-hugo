@@ -19,4 +19,4 @@ detailed_list = false
 
 +++
 
-[RGraphM] (https://github.com/adalisan/RGraphM) is a graph matching R package based on graphm.
+[RGraphM] (https://github.com/adalisan/RGraphM) is a graph matching R package based on [graphm]http://cbio.mines-paristech.fr/graphm/. Coming soon to CRAN.
