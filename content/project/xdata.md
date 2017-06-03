@@ -31,3 +31,4 @@ caption = ""
 #### DARPA program for organizing big data analysis and visualization efforts.
 
 The different data analysis tasks we accomplished are [here](http://www.cis.jhu.edu/~parky/XDATA/)
+See the [presentations](static/xdata_ppt1/XDATA-Midpoint.html)
