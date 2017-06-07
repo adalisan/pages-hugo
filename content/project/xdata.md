@@ -33,4 +33,4 @@ caption = ""
 The different data analysis tasks we accomplished are [here](http://www.cis.jhu.edu/~parky/XDATA/).
 
 See the [midpoint presentation](https://docs.google.com/presentation/d/1PjKrZE0zIsT6egd2p4jNx7XvaOxjYDkB_OP8tSZI6LY/pub?start=false&loop=false&delayms=5000)
-and [final presentation](xdata_ppt1/XDATA-Midpoint.html)
+and [final presentation](xdata_ppt1/XDATA-Midpoint.html) for the summer workshop.
