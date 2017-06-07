@@ -16,7 +16,7 @@ image_preview = "XDATA_TSG.png"
 tags = ["data-analysis","visualization","big-data","machine-learning","graph-analysis"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://opencatalog.darpa.mil/"
+#external_link = "http://opencatalog.darpa.mil/"
 
 # Does the project detail page use math formatting?
 math = false
@@ -30,5 +30,7 @@ caption = ""
 
 #### DARPA program for organizing big data analysis and visualization efforts.
 
-The different data analysis tasks we accomplished are [here](http://www.cis.jhu.edu/~parky/XDATA/)
-See the [presentations](static/xdata_ppt1/XDATA-Midpoint.html)
+The different data analysis tasks we accomplished are [here](http://www.cis.jhu.edu/~parky/XDATA/).
+
+See the [midpoint presentation](https://docs.google.com/presentation/d/1PjKrZE0zIsT6egd2p4jNx7XvaOxjYDkB_OP8tSZI6LY/pub?start=false&loop=false&delayms=5000)
+and [final presentation](xdata_ppt1/XDATA-Midpoint.html)
