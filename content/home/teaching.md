@@ -16,7 +16,7 @@ weight = 60
 I  taught an intersession course on R programming at Johns Hopkins. Here are my class notes:
 
 
-Let’s first start Rstudio. This is a good GUI that helps you organize the R expressions(functions called with some arguments)  you run, the plots and outputs as a result of those commands 
+Let’s first start Rstudio. This is a good GUI that helps you organize the R expressions(functions called with some arguments)  you run, the plots and outputs as a result of those commands.
  
 We have four panes. The upper left is the R script file editor, where you will enter your commands and save them as a text file. The lower left is the R console where you will see the commands sent to R and the results of those expressions. The results of expressions can be stored in variables to be used in future expressions. The upper right shows the variables and the data stored in those variables. The lower right pane has Files,Plots,Packages,Help tabs.
 -Files will list  the files in the current working directory in your computer’s file system
@@ -28,7 +28,7 @@ We’ll use R to read, modify and analyze data. Let’s start entering some R ex
  
  
 # How to store data in R
-The most basic way  one can think of   to organize data is a vector. Let’s create a vector whose elements are numbers by concatenating a few of them. We’ll call  “c” function with the numbers as  arguments to the function.
+The most basic way  one can think of   to organize numeric data  is a vector. Let’s create a vector whose elements are numbers by concatenating a few of them. We’ll call  “c” function with the numbers as  arguments to the function.
 ```r 
 #creating a numeric vector
 a.vector <- c(2,4,5)
