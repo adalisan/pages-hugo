@@ -1,0 +1,32 @@
++++
+date = "2018-02-23T14:42:15-05:00"
+highlight = true
+math = false
+tags = []
+title = "grounding before just in time learning"
+
+[header]
+  caption = ""
+  image = ""
+
++++
+Creating a roadmap in [this website would be useful](https://metacademy.org/browse) for planning.
+Signal processing:
+
+  Fourier Transform and Wavelets
+
+Information Theory
+  Entropy
+  Information Processing Inequality
+
+Optimization:
+
+
+Graph Theory:
+
+Statistics:
+
+Decision Theory:
+
+Machine Learning:
+
