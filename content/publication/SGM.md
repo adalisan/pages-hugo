@@ -10,13 +10,8 @@ publication_short = "PR"
 selected = true
 title = "Seeded Graph Matching"
 url_code = "#"
-<<<<<<< HEAD
-url_dataset = "http://www.cis.jhu.edu/~parky/SGM/"
-url_pdf = "https://doi.org/10.1016/j.patcog.2018.09.014"
-=======
 url_dataset = "http://www.cis.jhu.edu/~parky/D3M/SGM/"
-url_pdf = ""
->>>>>>> cecdb57... fix link and authors for SGM
+url_pdf = "https://doi.org/10.1016/j.patcog.2018.09.014"
 url_project = "project/SGM"
 url_slides = "#"
 url_video = "#"
