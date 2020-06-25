@@ -32,7 +32,7 @@ cache:
 
 # Build the website
 script:
-  - Rscript -e 'install.packages("blogdown","knitr","GGally","ggplot2")'
+  - Rscript -e 'install.packages(c("blogdown","knitr","GGally","ggplot2"))'
   - Rscript -e 'blogdown::install_hugo()'
   - Rscript -e 'blogdown::build_site()'
 #  - hugo
