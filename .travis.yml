@@ -1,4 +1,9 @@
+language: r
+dist: xenial
+latex: false
 # Install the apt prerequisites
+
+
 addons:
   apt:
     packages:
@@ -17,10 +22,19 @@ before_install:
 install:
   - rm -rf public || exit 0
 
+
+
+cache:
+  packages: yes
+  directories:
+    - $HOME/bin
+
+
 # Build the website
 script:
-  - hugo 
-
+  - Rscript -e 'blogdown::install_hugo()'
+  - Rscript -e 'blogdown::build_site()'
+#  - hugo
 # Deploy to GitHub pages
 deploy:
   provider: pages
@@ -30,6 +44,7 @@ deploy:
   target_branch: build
   on:
     branch: master
+# fqdn: travis-blogdown.yihui.name
 # Build all branches, *including* gh-pages:
 branches:
   only:
