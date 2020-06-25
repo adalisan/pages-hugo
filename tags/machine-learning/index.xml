@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Sancar Adali - personal website</title>
+    <link>https://adalisan.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Sancar Adali - personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Sancar Adali</copyright>
+    <lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/machine-learning/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ALADDIN</title>
+      <link>https://adalisan.github.io/project/aladdin/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://adalisan.github.io/project/aladdin/</guid>
+      <description>&lt;p&gt;Software Development &amp;amp; Research for interactive system that carries out training and search for events in big video collections. &lt;a href=&#34;https://www.iarpa.gov/index.php/research-programs/aladdin-video&#34; target=&#34;_blank&#34;&gt;IARPA website for the ALADDIN program&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CVRG</title>
+      <link>https://adalisan.github.io/project/cvrg/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://adalisan.github.io/project/cvrg/</guid>
+      <description>&lt;p&gt;I was a researcher in the machine learning group for the Cardiovascular Research Grid project. We worked with the cardiologists who are custodians of a dataset involving patients with ICD implants. Our objective was to come up with robust, interpretable predictors that predicted either high risk of ICD utilization , or sudden cardiac death. An important challenge was to create predictors that both utilized both survival data and did not become biased due to not-missing-at-random data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XDATA</title>
+      <link>https://adalisan.github.io/project/xdata/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://adalisan.github.io/project/xdata/</guid>
+      <description>
+
+&lt;h4 id=&#34;darpa-program-for-organizing-big-data-analysis-and-visualization-efforts&#34;&gt;DARPA program for organizing big data analysis and visualization efforts.&lt;/h4&gt;
+
+&lt;p&gt;The different data analysis tasks we accomplished are &lt;a href=&#34;http://www.cis.jhu.edu/~parky/XDATA/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;See the &lt;a href=&#34;https://docs.google.com/presentation/d/1PjKrZE0zIsT6egd2p4jNx7XvaOxjYDkB_OP8tSZI6LY/pub?start=false&amp;amp;loop=false&amp;amp;delayms=5000&#34; target=&#34;_blank&#34;&gt;midpoint presentation&lt;/a&gt;
+and &lt;a href=&#34;xdata_ppt1/XDATA-Midpoint.html&#34; target=&#34;_blank&#34;&gt;final presentation&lt;/a&gt; for the summer workshop.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
